@@ -1,0 +1,11 @@
+﻿  main.c
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(9,10): warning C4477: 'scanf_s' : 格式字串 '%d' 需要 'int *' 類型的引數，但 variadic 引數 1 的類型為 'long'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(11,10): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(13,10): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(15,10): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(17,10): warning C4477: 'scanf_s' : 格式字串 '%f' 需要 'float *' 類型的引數，但 variadic 引數 1 的類型為 'double'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(9): error C4700: 使用了未初始化的區域變數 'accnum'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(11): error C4700: 使用了未初始化的區域變數 'beginbalan'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(13): error C4700: 使用了未初始化的區域變數 'totchar'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(15): error C4700: 使用了未初始化的區域變數 'totcred'
+D:\NTUT C HW\HW\HW2 unit 3,4\3.17\source\main.c(17): error C4700: 使用了未初始化的區域變數 'limit'
